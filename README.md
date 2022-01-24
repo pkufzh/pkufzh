@@ -1,10 +1,4 @@
-## Hi, this is <font face="Comic Sans MS"><b>Small Shrimp</b></font>!:wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=pkufzh)
-
-<div align=left>
-    <font face="Cambria"><b> 
-    ^_^ Welcome to my Github HomePage!
-    </b></font>
-</div>
+# Hi, this is <font face="Comic Sans MS"><b>Small Shrimp</b></font>! :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=pkufzh)
 
 <!-- Introduction -->
 
