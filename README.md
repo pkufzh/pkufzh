@@ -5,7 +5,7 @@
 <!-- Introduction -->
 
 - :school:  <font face="Cambria"><b>Ph.D candidate in</b></font> <font face="Comic Sans MS"><b>Peking University</b></font> [<font face="Comic Sans MS"><b>@PKU</b></font>](https://www.pku.edu.cn/). <font face="Cambria"><b>Major in</b></font> <font face="Comic Sans MS"><b>Mechanics (Aerospace Engineering)</b></font>.
-- :office:  <font face="Cambria"><b>State Key Laboratory for Turbulence & Complex Systems [<font face="Comic Sans MS"><b>@LTCS</b></font>](https://ltcs.pku.edu.cn/), College of Engineering [<font face="Comic Sans MS"><b>@COE</b></font>](https://www.coe.pku.edu.cn/)</b></font>
+- :office:  <font face="Cambria"><b>State Key Laboratory for Turbulence & Complex Systems [<font face="Comic Sans MS"><b>@LTCS</b></font>](https://ltcs.pku.edu.cn/), College of Engineering [<font face="Comic Sans MS"><b>@CoE</b></font>](https://www.coe.pku.edu.cn/)</b></font>
 - :man_scientist: <font face="Cambria"><b> My current reserach interest is </b></font><font face="Comic Sans MS"><b>Fluid Mechanics</b></font>.
 - :house:  [<font face="Comic Sans MS"><b>Research Gate</b></font>](https://www.researchgate.net/profile/Zhenghao-Feng)  • [<font face="Comic Sans MS"><b>Bilibili Space</b></font>](https://space.bilibili.com/167343763)
 
