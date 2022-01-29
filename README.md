@@ -9,6 +9,6 @@
 - :man_student: <font face="Cambria"><b> My current research interest is </b></font><font face="Comic Sans MS"><b>Fluid Mechanics</b></font>.
 - :house:  [<font face="Comic Sans MS"><b>ResearchGate</b></font>](https://www.researchgate.net/profile/Zhenghao-Feng)  • [<font face="Comic Sans MS"><b>Bilibili Space</b></font>](https://space.bilibili.com/167343763)
 
-<!-- Github Stats -->
+<!-- Github Stats & Most Used Languages -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkufzh&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkufzh&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkufzh&theme=default&layout=compact)
