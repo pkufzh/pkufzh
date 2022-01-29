@@ -1,6 +1,6 @@
-# Hi, this is <font face="Comic Sans MS"><b>Small Shrimp</b></font>! :wave: 
+# Hi, this is <font face="Comic Sans MS"><b>Small Shrimp</b></font>! :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=pkufzh)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=pkufzh) [![ResearchGate](https://img.shields.io/badge/ResearchGate-brightgreen?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhenghao-Feng) [![Bilibili Space](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=Bilibili%20Space&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D167343763)](https://space.bilibili.com/167343763) [![Github Stars](https://img.shields.io/badge/dynamic/json?color=262525&label=Github%20Followers&logo=github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpkufzh)](https://github.com/pkufzh)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-brightgreen?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhenghao-Feng) [![Bilibili Space](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=Bilibili%20Space&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D167343763)](https://space.bilibili.com/167343763) [![Github Stars](https://img.shields.io/badge/dynamic/json?color=262525&label=Github%20Followers&logo=github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dpkufzh)](https://github.com/pkufzh)
 
 <!-- Introduction -->
 
