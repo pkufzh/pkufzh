@@ -12,3 +12,5 @@
 <!-- Github Stats & Most Used Languages -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkufzh&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkufzh&theme=default&layout=compact)
+
+This personal profile page is inspired by [<font face="Comic Sans MS"><b>syy11cn</b></font>](https://github.com/syy11cn) from [<font face="Comic Sans MS"><b>@𝑈𝐸𝑆𝑇𝐶</b></font>](https://github.com/uestcer). Thank 𝒀𝒊𝒚𝒂𝒏𝒈 𝑺𝒖𝒏 for his design of this elegant profile card!
