@@ -7,7 +7,7 @@
 - :school:  <font face="Cambria"><b>Ph.D candidate in</b></font> <font face="Comic Sans MS"><b>Peking University</b></font> [<font face="Comic Sans MS"><b>@PKU</b></font>](https://www.pku.edu.cn/). <font face="Cambria"><b>Major in</b></font> <font face="Comic Sans MS"><b>Mechanics (Aerospace Engineering)</b></font>.
 - :office:  <font face="Cambria"><b>State Key Laboratory for Turbulence & Complex Systems [<font face="Comic Sans MS"><b>@LTCS</b></font>](https://ltcs.pku.edu.cn/), College of Engineering [<font face="Comic Sans MS"><b>@CoE</b></font>](https://www.coe.pku.edu.cn/)</b></font>
 - :man_student: <font face="Cambria"><b> My current research interest is </b></font><font face="Comic Sans MS"><b>Fluid Mechanics</b></font>.
-- :house:  [<font face="Comic Sans MS"><b>ResearchGate</b></font>](https://www.researchgate.net/profile/Zhenghao-Feng)  • [<font face="Comic Sans MS"><b>Bilibili Space</b></font>](https://space.bilibili.com/167343763)
+- :house:  [<font face="Comic Sans MS"><b>ResearchGate</b></font>](https://www.researchgate.net/profile/Zhenghao-Feng)  • [<font face="Comic Sans MS"><b>Bilibili Space</b></font>](https://space.bilibili.com/167343763)  • [<font face="Comic Sans MS"><b>Zhihu Profile</b></font>](https://www.zhihu.com/people/xiao-xiao-da-xia-mi)
 
 <!-- Github Stats & Most Used Languages -->
 
